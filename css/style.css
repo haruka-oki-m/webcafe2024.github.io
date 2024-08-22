@@ -78,7 +78,7 @@ img{
     background-repeat: no-repeat;
 }
 #home{
-    background-image: url(../images/main-bg.jpg);
+    background-image: url(https://github.com/haruka-oki-m/webcafe2024.github.io/blob/main/main-bg.jpg?raw=true);
     min-height: 95vh;
     background-position: 20% 50%;
     background-color:rgba(255,255,255,0.3);
