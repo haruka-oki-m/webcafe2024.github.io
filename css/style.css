@@ -90,7 +90,7 @@ img{
 
 /*NEWS*/
 #news{
-    background-image: url(../images/news-bg.jpg);
+    background-image: url(https://github.com/haruka-oki-m/webcafe2024.github.io/blob/main/news-bg.jpg?raw=true);
     background-position: 40% 45%;
     background-color:rgba(255,255,255,0.3);
     background-blend-mode:lighten;
@@ -191,7 +191,7 @@ aside p{
 
 /*MENU*/
 #menu{
-    background-image: url(../images/menu-bg.jpg);
+    background-image: url(https://github.com/haruka-oki-m/webcafe2024.github.io/blob/main/menu-bg.jpg?raw=true);
     min-height: 100vh;
     background-position: 20% 40%;
     background-color:rgba(255,255,255,0.5);
@@ -227,7 +227,7 @@ aside p{
 }
 /*CONTACT*/
 #contact{
-    background-image: url(../images/contact-bg.jpg);
+    background-image: url(https://github.com/haruka-oki-m/webcafe2024.github.io/blob/main/contact-bg.jpg?raw=true);
     background-color:rgba(255,255,255,0.4);
     background-blend-mode:lighten;
     min-height: 100vh;
